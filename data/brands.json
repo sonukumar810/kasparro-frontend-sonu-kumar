@@ -1,0 +1,21 @@
+[
+  {
+    "id": "brand-1",
+    "name": "TechFlow",
+    "domain": "techflow.com",
+    "industry": "SaaS"
+  },
+  {
+    "id": "brand-2",
+    "name": "DataViz Pro",
+    "domain": "datavizpro.io",
+    "industry": "Analytics"
+  },
+  {
+    "id": "brand-3",
+    "name": "CloudSync",
+    "domain": "cloudsync.app",
+    "industry": "Infrastructure"
+  }
+]
+

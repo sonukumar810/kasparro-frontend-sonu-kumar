@@ -1,0 +1,38 @@
+[
+  {
+    "id": "content-relevance",
+    "name": "Content Relevance",
+    "description": "Evaluates how well content aligns with AI search intent and semantic understanding"
+  },
+  {
+    "id": "entity-authority",
+    "name": "Entity Authority",
+    "description": "Measures brand authority and entity recognition in AI knowledge graphs"
+  },
+  {
+    "id": "contextual-signals",
+    "name": "Contextual Signals",
+    "description": "Analyzes contextual markers that help AI systems understand content purpose"
+  },
+  {
+    "id": "semantic-structure",
+    "name": "Semantic Structure",
+    "description": "Assesses how well content is structured for AI parsing and understanding"
+  },
+  {
+    "id": "trust-signals",
+    "name": "Trust & EEAT Signals",
+    "description": "Evaluates expertise, experience, authoritativeness, and trustworthiness indicators"
+  },
+  {
+    "id": "ai-citation-readiness",
+    "name": "AI Citation Readiness",
+    "description": "Measures how likely content is to be cited by AI systems in responses"
+  },
+  {
+    "id": "conversational-optimization",
+    "name": "Conversational Optimization",
+    "description": "Assesses content optimization for conversational AI search interfaces"
+  }
+]
+

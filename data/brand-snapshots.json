@@ -1,0 +1,24 @@
+[
+  {
+    "brandId": "brand-1",
+    "aiVisibilityScore": 76,
+    "trustEeatScore": 79,
+    "nonBrandedKeywordCoverage": 68,
+    "lastAuditTimestamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "brandId": "brand-2",
+    "aiVisibilityScore": 82,
+    "trustEeatScore": 85,
+    "nonBrandedKeywordCoverage": 74,
+    "lastAuditTimestamp": "2024-01-14T14:20:00Z"
+  },
+  {
+    "brandId": "brand-3",
+    "aiVisibilityScore": 71,
+    "trustEeatScore": 73,
+    "nonBrandedKeywordCoverage": 62,
+    "lastAuditTimestamp": "2024-01-13T09:15:00Z"
+  }
+]
+

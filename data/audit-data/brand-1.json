@@ -1,0 +1,196 @@
+{
+  "brandId": "brand-1",
+  "generatedAt": "2024-01-15T10:30:00Z",
+  "modules": [
+    {
+      "id": "content-relevance",
+      "name": "Content Relevance",
+      "description": "Evaluates how well content aligns with AI search intent and semantic understanding",
+      "score": 78,
+      "maxScore": 100,
+      "insights": [
+        "Content shows strong alignment with AI search queries in 65% of pages",
+        "Semantic depth is above average for SaaS industry",
+        "Topic clustering could be improved for better AI understanding"
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "severity": "high",
+          "title": "Missing semantic context in product pages",
+          "description": "Product pages lack sufficient context for AI systems to understand use cases",
+          "affectedPages": 12
+        },
+        {
+          "id": "issue-2",
+          "severity": "medium",
+          "title": "Inconsistent topic coverage",
+          "description": "Some key topics have fragmented coverage across multiple pages",
+          "affectedPages": 8
+        }
+      ],
+      "recommendations": [
+        "Add structured data markup to enhance semantic understanding",
+        "Create comprehensive topic clusters with clear hierarchical relationships",
+        "Include more contextual examples and use cases in product descriptions"
+      ]
+    },
+    {
+      "id": "entity-authority",
+      "name": "Entity Authority",
+      "description": "Measures brand authority and entity recognition in AI knowledge graphs",
+      "score": 82,
+      "maxScore": 100,
+      "insights": [
+        "Brand entity is recognized in major knowledge graphs",
+        "Strong backlink profile supports authority signals",
+        "Wikipedia presence enhances entity recognition"
+      ],
+      "issues": [
+        {
+          "id": "issue-3",
+          "severity": "medium",
+          "title": "Incomplete entity profile",
+          "description": "Some key entity attributes are missing from structured data",
+          "affectedPages": 5
+        }
+      ],
+      "recommendations": [
+        "Enhance schema.org markup with complete organization details",
+        "Build more authoritative citations from industry publications",
+        "Maintain consistent entity mentions across all content"
+      ]
+    },
+    {
+      "id": "contextual-signals",
+      "name": "Contextual Signals",
+      "description": "Analyzes contextual markers that help AI systems understand content purpose",
+      "score": 71,
+      "maxScore": 100,
+      "insights": [
+        "Clear purpose indicators present in 60% of content",
+        "Contextual headers are well-structured",
+        "Missing explicit intent signals in some sections"
+      ],
+      "issues": [
+        {
+          "id": "issue-4",
+          "severity": "high",
+          "title": "Weak contextual markers in blog content",
+          "description": "Blog posts lack clear contextual signals about their purpose and audience",
+          "affectedPages": 24
+        }
+      ],
+      "recommendations": [
+        "Add explicit purpose statements at the beginning of articles",
+        "Use clear section headers that indicate content intent",
+        "Include contextual metadata in page headers"
+      ]
+    },
+    {
+      "id": "semantic-structure",
+      "name": "Semantic Structure",
+      "description": "Assesses how well content is structured for AI parsing and understanding",
+      "score": 85,
+      "maxScore": 100,
+      "insights": [
+        "Strong use of semantic HTML elements",
+        "Content hierarchy is well-defined",
+        "Good use of lists and structured data"
+      ],
+      "issues": [
+        {
+          "id": "issue-5",
+          "severity": "low",
+          "title": "Some pages lack proper heading hierarchy",
+          "description": "A few pages skip heading levels which can confuse AI parsing",
+          "affectedPages": 3
+        }
+      ],
+      "recommendations": [
+        "Maintain consistent heading hierarchy (h1 → h2 → h3)",
+        "Use semantic HTML5 elements (article, section, nav)",
+        "Ensure all content blocks have clear semantic meaning"
+      ]
+    },
+    {
+      "id": "trust-signals",
+      "name": "Trust & EEAT Signals",
+      "description": "Evaluates expertise, experience, authoritativeness, and trustworthiness indicators",
+      "score": 79,
+      "maxScore": 100,
+      "insights": [
+        "Strong author credentials displayed on key pages",
+        "Good use of citations and references",
+        "Company credentials are well-presented"
+      ],
+      "issues": [
+        {
+          "id": "issue-6",
+          "severity": "medium",
+          "title": "Missing author attribution on blog posts",
+          "description": "Some blog posts lack clear author attribution and credentials",
+          "affectedPages": 15
+        }
+      ],
+      "recommendations": [
+        "Add author bylines with credentials to all content",
+        "Include publication dates and update timestamps",
+        "Showcase team expertise and company achievements more prominently"
+      ]
+    },
+    {
+      "id": "ai-citation-readiness",
+      "name": "AI Citation Readiness",
+      "description": "Measures how likely content is to be cited by AI systems in responses",
+      "score": 73,
+      "maxScore": 100,
+      "insights": [
+        "Content format is citation-friendly",
+        "Clear source attribution present",
+        "Some content lacks the depth needed for authoritative citations"
+      ],
+      "issues": [
+        {
+          "id": "issue-7",
+          "severity": "high",
+          "title": "Shallow content depth in some areas",
+          "description": "Some pages lack the comprehensive depth that AI systems prefer for citations",
+          "affectedPages": 18
+        }
+      ],
+      "recommendations": [
+        "Expand key pages with more comprehensive, in-depth content",
+        "Include original research and data to increase citation value",
+        "Format content with clear sections that are easy to extract and cite"
+      ]
+    },
+    {
+      "id": "conversational-optimization",
+      "name": "Conversational Optimization",
+      "description": "Assesses content optimization for conversational AI search interfaces",
+      "score": 76,
+      "maxScore": 100,
+      "insights": [
+        "Content answers common questions effectively",
+        "Good use of FAQ-style sections",
+        "Some content is too technical for conversational queries"
+      ],
+      "issues": [
+        {
+          "id": "issue-8",
+          "severity": "medium",
+          "title": "Missing natural language question patterns",
+          "description": "Content doesn't explicitly address how users might ask questions conversationally",
+          "affectedPages": 20
+        }
+      ],
+      "recommendations": [
+        "Add FAQ sections that mirror conversational query patterns",
+        "Use natural language in headings and subheadings",
+        "Include direct answers to common \"how\" and \"what\" questions"
+      ]
+    }
+  ]
+}
+
