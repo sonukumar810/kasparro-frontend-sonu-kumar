@@ -2,6 +2,9 @@
 
 A comprehensive frontend implementation for Kasparro's AI-native SEO & Brand Intelligence platform, built with Next.js, TypeScript, and Tailwind CSS.
 
+
+live link-> https://kasparro.netlify.app/
+
 ## 🚀 Quick Start
 
 ```bash
